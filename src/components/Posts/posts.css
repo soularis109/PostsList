@@ -1,0 +1,34 @@
+.post__container {
+
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.title {
+    display: flex;
+    margin: 20px 0;
+}
+.title__item {
+    width: 50%;
+}
+.title__name {
+    width: 525px;
+    padding: 5px;
+
+}
+
+.body {
+    display: flex;
+}
+.body__item {
+    width: 50%;
+}
+
+.body__name {
+    width: 525px;
+    padding: 5px;
+}
+.delete {
+    margin-top: 20px;
+
+}
